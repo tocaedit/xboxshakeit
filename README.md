@@ -10,6 +10,11 @@ Prerequisites:<br>
 SinHub (Licensed if you want 60FPS) https://www.simhubdash.com/<br>
 com0com http://sourceforge.net/projects/com0com/<br>
 
-Usage:
-run com0com setup, verify pair using COM numbers
-run SimHub, connect to Arduino ShakeIt device Import profile or Enable manually.
+Usage:<br>
+Run com0com setup, verify pair using COM numbers.<br>
+Run SimHub, connect to Arduino ShakeIt device Import profile or Enable stuff manually.<br>
+<br>
+<br>
+Notes:
+<br>
+May Work with other controller brands? Enter valid digit HID Vendor ID as decimal. Default is 1118.

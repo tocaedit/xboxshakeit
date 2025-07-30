@@ -7,7 +7,7 @@ Allows mapping all four vibration motors to various telemetry-driven effects.
 <img width="1225" height="1310" alt="image" src="https://github.com/user-attachments/assets/878f0b07-5882-4ec6-83cc-87c86a95fb90" />
 
 <b>Prerequisites</b><br>
-SinHub (Licensed if you want 60FPS) https://www.simhubdash.com/<br>
+SimHub (Licensed if you want 60FPS) https://www.simhubdash.com/<br>
 com0com http://sourceforge.net/projects/com0com/<br>
 
 <b>Usage</b><br>

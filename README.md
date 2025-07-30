@@ -12,7 +12,7 @@ com0com http://sourceforge.net/projects/com0com/<br>
 
 <b>Usage</b><br>
 Run com0com setup, verify pair using COM numbers.<br>
-Run SimHub, connect to Arduino ShakeIt device Import profile or Enable stuff manually.<br>
+Run SimHub, connect to Arduino ShakeIt device. Import profile or Enable stuff manually.<br>
 <br>
 <br>
 <b>Notes</b><br>

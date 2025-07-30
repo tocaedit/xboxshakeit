@@ -16,5 +16,4 @@ Run SimHub, connect to Arduino ShakeIt device Import profile or Enable stuff man
 <br>
 <br>
 <b>Notes</b><br>
-<br>
-May Work with other controller brands? Enter valid digit HID Vendor ID as decimal. Default is 1118.
+May Work with other controller brands? Enter valid digit HID Vendor ID as decimal. Default is 1118 (Microsoft).

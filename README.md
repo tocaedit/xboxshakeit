@@ -2,19 +2,19 @@
 
 A SimHub ShakeIt Device emulator for XBOX Series X/S Controller
 
-Allows mapping all four motors to various telemetry-driven effects.
+Allows mapping all four vibration motors to various telemetry-driven effects.
 
 <img width="1225" height="1310" alt="image" src="https://github.com/user-attachments/assets/878f0b07-5882-4ec6-83cc-87c86a95fb90" />
 
-Prerequisites:<br>
+<b>Prerequisites</b><br>
 SinHub (Licensed if you want 60FPS) https://www.simhubdash.com/<br>
 com0com http://sourceforge.net/projects/com0com/<br>
 
-Usage:<br>
+<b>Usage</b><br>
 Run com0com setup, verify pair using COM numbers.<br>
 Run SimHub, connect to Arduino ShakeIt device Import profile or Enable stuff manually.<br>
 <br>
 <br>
-Notes:
+<b>Notes</b><br>
 <br>
 May Work with other controller brands? Enter valid digit HID Vendor ID as decimal. Default is 1118.

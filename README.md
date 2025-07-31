@@ -12,8 +12,10 @@ com0com http://sourceforge.net/projects/com0com/<br>
 
 <b>Usage</b><br>
 Run com0com setup, verify pair using COM numbers.<br>
-Run SimHub, connect to Arduino ShakeIt device. Import profile or Enable stuff manually.<br>
+Run SimHub, XboxShakeIt and connect to Arduino ShakeIt device in SimHub.<br>
+Import included Effects Profile and Motor Outputs or configure manually.<br>
 <br>
 <br>
 <b>Notes</b><br>
-May Work with other controller brands? Enter valid digit HID Vendor ID as decimal. Default is 1118 (Microsoft).
+May Work with other controller brands? Enter valid digit HID Vendor ID as decimal. Default is 1118 (Microsoft).<br>
+May support multiple controllers? Untested.

@@ -20,3 +20,5 @@ Import included Effects Profile and Motor Outputs or configure manually.<br>
 <b>Notes</b><br>
 May Work with other controller brands? Enter valid digit HID Vendor ID as decimal. Default is 1118 (Microsoft).<br>
 May support multiple controllers? Untested.
+May need to disable Secure Boot to instal com0com. (there are other paid virtual null modems out there)
+New WRC23 profile requires 60FPS SimHub to function properly.

@@ -1,3 +1,4 @@
+<img width="1920" height="831" alt="image" src="https://github.com/user-attachments/assets/1a32c58c-dc1f-454c-92d9-c403923fcd82" />
 <img width="489" height="299" alt="image" src="https://github.com/user-attachments/assets/9405f7eb-1259-47b4-b7ea-88aa5f8eee6a" />
 
 A SimHub ShakeIt Device emulator for XBOX Series X/S Controller
